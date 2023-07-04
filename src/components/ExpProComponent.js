@@ -6,6 +6,16 @@ class ExpProComponent extends React.Component{
         return (
                 <div className="border">
                     <h3>Expérience professionnelle</h3>
+                    <h5>Développeur Web - stage</h5>
+                    <h6>Mind-and-go Projet Datacup
+                    <p>02 mai - 27 juin 2023</p>
+                    <ul>
+                        <li className="liste">Intégration HTML - CSS</li>
+                        <li className="liste">Responsive design</li>
+                        <li className="liste">Angular</li>
+                        <li className="liste">Git</li>
+                    </ul>
+            
                     <h5>Secrétaire médicale</h5>
                     <p>2005 - 2022</p>
                     <ul>
